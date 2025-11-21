@@ -1,4 +1,6 @@
 # Linear-Regression
+## NAME: keerthana T
+## REGISTER NUMBER:212224100031
 
 ## a) Stock Market Prediction using Linear Regression
 
